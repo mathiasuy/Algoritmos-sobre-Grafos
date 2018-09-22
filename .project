@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Algoritmos sobre grafos</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/README.md</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/git/Algoritmos-sobre-Grafos/README.md</locationURI>
+		</link>
+		<link>
+			<name>src/graf.gif</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/git/Algoritmos-sobre-Grafos/graf.gif</locationURI>
+		</link>
+		<link>
+			<name>src/original.PNG</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/git/Algoritmos-sobre-Grafos/original.PNG</locationURI>
+		</link>
+		<link>
+			<name>src/red.PNG</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/git/Algoritmos-sobre-Grafos/red.PNG</locationURI>
+		</link>
+		<link>
+			<name>src/tree.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/git/Algoritmos-sobre-Grafos/tree.png</locationURI>
+		</link>
+		<link>
+			<name>src/treered.PNG</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/git/Algoritmos-sobre-Grafos/treered.PNG</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
